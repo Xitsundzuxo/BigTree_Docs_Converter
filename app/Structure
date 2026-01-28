@@ -1,0 +1,27 @@
+BigTreeDocsConverter/
+│
+├── app/
+│   ├── src/main/
+│   │   ├── java/com/bigtree/docsconverter/
+│   │   │   ├── MainActivity.kt
+│   │   │   ├── ui/
+│   │   │   │   ├── home/
+│   │   │   │   ├── scan/
+│   │   │   │   ├── convert/
+│   │   │   │   ├── compress/
+│   │   │   │   ├── settings/
+│   │   │   ├── utils/
+│   │   │   ├── pdf/
+│   │   │   ├── ocr/
+│   │   │   ├── watermark/
+│   │   │   ├── billing/
+│   │   │   └── ads/
+│   │   ├── res/
+│   │   │   ├── layout/
+│   │   │   ├── drawable/
+│   │   │   │   └── bigtree_logo.png
+│   │   │   ├── values/
+│   │   │   └── mipmap/
+│   │   └── AndroidManifest.xml
+│   └── build.gradle
+└── build.gradle
